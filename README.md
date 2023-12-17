@@ -1,6 +1,6 @@
 # Hi, I'm Natalia
 
-### A full-stack developer from Saint-Petersburb 
+### A full-stack developer from Saint-Petersburg
 I'm currently learning Java Spring Boot, React and Three.js.
 
 -----
