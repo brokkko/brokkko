@@ -26,9 +26,9 @@ in process...
 in process...
 
 -----
-🎓 My graduation
+🎓 My education
 
-in process...
+SPbGETU «LETI» 24’ (bachelor)
 
 -----
 🛠 Languages and tools
